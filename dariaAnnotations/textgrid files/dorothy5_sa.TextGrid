@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.935791666666667 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 3.935791666666667 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36801845486290474 
+            text = "no" 
+        intervals [2]:
+            xmin = 0.36801845486290474 
+            xmax = 0.494967015921596 
+            text = "it's" 
+        intervals [3]:
+            xmin = 0.494967015921596 
+            xmax = 0.7957562797820119 
+            text = "because" 
+        intervals [4]:
+            xmin = 0.7957562797820119 
+            xmax = 0.9116187034988389 
+            text = "I" 
+        intervals [5]:
+            xmin = 0.9116187034988389 
+            xmax = 1.1264547299058547 
+            text = "can't" 
+        intervals [6]:
+            xmin = 1.1264547299058547 
+            xmax = 1.3738416694048428 
+            text = "make" 
+        intervals [7]:
+            xmin = 1.3738416694048428 
+            xmax = 1.5796361068037748 
+            text = "any" 
+        intervals [8]:
+            xmin = 1.5796361068037748 
+            xmax = 1.918213309085475 
+            text = "sense" 
+        intervals [9]:
+            xmin = 1.918213309085475 
+            xmax = 2.0286189185251597 
+            text = "out" 
+        intervals [10]:
+            xmin = 2.0286189185251597 
+            xmax = 2.1290228531385957 
+            text = "of" 
+        intervals [11]:
+            xmin = 2.1290228531385957 
+            xmax = 2.3471139708548088 
+            text = "those" 
+        intervals [12]:
+            xmin = 2.3471139708548088 
+            xmax = 2.9655813196022787 
+            text = "commercials" 
+        intervals [13]:
+            xmin = 2.9655813196022787 
+            xmax = 3.132684165243093 
+            text = "for" 
+        intervals [14]:
+            xmin = 3.132684165243093 
+            xmax = 3.8639865209407085 
+            text = "obsession" 
+        intervals [15]:
+            xmin = 3.8639865209407085 
+            xmax = 3.935791666666667 
+            text = "[length]" 

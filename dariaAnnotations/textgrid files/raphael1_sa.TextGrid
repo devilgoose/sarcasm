@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.4566875 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 5.4566875 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41094587471087735 
+            text = "whoa" 
+        intervals [2]:
+            xmin = 0.41094587471087735 
+            xmax = 0.95249941908224 
+            text = "whoa" 
+        intervals [3]:
+            xmin = 0.95249941908224 
+            xmax = 1.3225610077360046 
+            text = "a" 
+        intervals [4]:
+            xmin = 1.3225610077360046 
+            xmax = 1.633954295749538 
+            text = "fat" 
+        intervals [5]:
+            xmin = 1.633954295749538 
+            xmax = 2.2928444414013627 
+            text = "sarcastic" 
+        intervals [6]:
+            xmin = 2.2928444414013627 
+            xmax = 2.6053413223991897 
+            text = "star" 
+        intervals [7]:
+            xmin = 2.6053413223991897 
+            xmax = 2.843423878178915 
+            text = "trek" 
+        intervals [8]:
+            xmin = 2.843423878178915 
+            xmax = 3.2856926060821943 
+            text = "fan" 
+        intervals [9]:
+            xmin = 3.2856926060821943 
+            xmax = 3.537871354907657 
+            text = "#" 
+        intervals [10]:
+            xmin = 3.537871354907657 
+            xmax = 3.8633497200783147 
+            text = "you" 
+        intervals [11]:
+            xmin = 3.8633497200783147 
+            xmax = 4.161204169482564 
+            text = "must" 
+        intervals [12]:
+            xmin = 4.161204169482564 
+            xmax = 4.341722017606352 
+            text = "be" 
+        intervals [13]:
+            xmin = 4.341722017606352 
+            xmax = 4.4189119991181105 
+            text = "a" 
+        intervals [14]:
+            xmin = 4.4189119991181105 
+            xmax = 4.752400122087968 
+            text = "devil" 
+        intervals [15]:
+            xmin = 4.752400122087968 
+            xmax = 4.910353239196282 
+            text = "with" 
+        intervals [16]:
+            xmin = 4.910353239196282 
+            xmax = 5.023176894273649 
+            text = "the" 
+        intervals [17]:
+            xmin = 5.023176894273649 
+            xmax = 5.424829106349076 
+            text = "ladies" 
+        intervals [18]:
+            xmin = 5.424829106349076 
+            xmax = 5.4566875 
+            text = "[length]" 

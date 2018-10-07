@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.483 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.483 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19581846609161627 
+            text = "I" 
+        intervals [2]:
+            xmin = 0.19581846609161627 
+            xmax = 0.4019093372794008 
+            text = "put" 
+        intervals [3]:
+            xmin = 0.4019093372794008 
+            xmax = 0.5330580734898092 
+            text = "that" 
+        intervals [4]:
+            xmin = 0.5330580734898092 
+            xmax = 0.6474848895465667 
+            text = "in" 
+        intervals [5]:
+            xmin = 0.6474848895465667 
+            xmax = 0.7130592576517708 
+            text = "the" 
+        intervals [6]:
+            xmin = 0.7130592576517708 
+            xmax = 1.4968290859568298 
+            text = "signature" 
+        intervals [7]:
+            xmin = 1.4968290859568298 
+            xmax = 1.663068837268245 
+            text = "#" 
+        intervals [8]:
+            xmin = 1.663068837268245 
+            xmax = 1.7835077778380393 
+            text = "and" 
+        intervals [9]:
+            xmin = 1.7835077778380393 
+            xmax = 1.852204734900634 
+            text = "then" 
+        intervals [10]:
+            xmin = 1.852204734900634 
+            xmax = 1.9614953484093076 
+            text = "in" 
+        intervals [11]:
+            xmin = 1.9614953484093076 
+            xmax = 2.0645407840031997 
+            text = "the" 
+        intervals [12]:
+            xmin = 2.0645407840031997 
+            xmax = 2.326751290630483 
+            text = "body" 
+        intervals [13]:
+            xmin = 2.326751290630483 
+            xmax = 2.4781121138834816 
+            text = "I'll" 
+        intervals [14]:
+            xmin = 2.4781121138834816 
+            xmax = 2.717209434834121 
+            text = "write" 
+        intervals [15]:
+            xmin = 2.717209434834121 
+            xmax = 2.9822767914507953 
+            text = "fun" 
+        intervals [16]:
+            xmin = 2.9822767914507953 
+            xmax = 3.4100714786133177 
+            text = "stuff" 
+        intervals [17]:
+            xmin = 3.4100714786133177 
+            xmax = 3.483 
+            text = "[length]" 

@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.723270833333333 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 5.723270833333333 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10717019526731823 
+            text = "oh" 
+        intervals [2]:
+            xmin = 0.10717019526731823 
+            xmax = 0.30988572253551283 
+            text = "hey" 
+        intervals [3]:
+            xmin = 0.30988572253551283 
+            xmax = 0.5852742673183204 
+            text = "Bob" 
+        intervals [4]:
+            xmin = 0.5852742673183204 
+            xmax = 0.8109848785324647 
+            text = "here's" 
+        intervals [5]:
+            xmin = 0.8109848785324647 
+            xmax = 0.9071008804370525 
+            text = "an" 
+        intervals [6]:
+            xmin = 0.9071008804370525 
+            xmax = 1.3165816224028957 
+            text = "idea" 
+        intervals [7]:
+            xmin = 1.3165816224028957 
+            xmax = 1.5023338957465933 
+            text = "let's" 
+        intervals [8]:
+            xmin = 1.5023338957465933 
+            xmax = 1.7798823506845602 
+            text = "say" 
+        intervals [9]:
+            xmin = 1.7798823506845602 
+            xmax = 2.119521441158904 
+            text = "you" 
+        intervals [10]:
+            xmin = 2.119521441158904 
+            xmax = 2.411109312105406 
+            text = "stop" 
+        intervals [11]:
+            xmin = 2.411109312105406 
+            xmax = 2.7508874388280424 
+            text = "showing" 
+        intervals [12]:
+            xmin = 2.7508874388280424 
+            xmax = 2.9085608801546696 
+            text = "up" 
+        intervals [13]:
+            xmin = 2.9085608801546696 
+            xmax = 3.123471940593017 
+            text = "all" 
+        intervals [14]:
+            xmin = 3.123471940593017 
+            xmax = 3.5109991528128774 
+            text = "together" 
+        intervals [15]:
+            xmin = 3.5109991528128774 
+            xmax = 3.693806219027606 
+            text = "we'll" 
+        intervals [16]:
+            xmin = 3.693806219027606 
+            xmax = 3.8835836545778526 
+            text = "just" 
+        intervals [17]:
+            xmin = 3.8835836545778526 
+            xmax = 4.273425483338786 
+            text = "replace" 
+        intervals [18]:
+            xmin = 4.273425483338786 
+            xmax = 4.337142832915985 
+            text = "you" 
+        intervals [19]:
+            xmin = 4.337142832915985 
+            xmax = 4.453730681633737 
+            text = "with" 
+        intervals [20]:
+            xmin = 4.453730681633737 
+            xmax = 4.537021261491101 
+            text = "a" 
+        intervals [21]:
+            xmin = 4.537021261491101 
+            xmax = 4.920925597026196 
+            text = "giant" 
+        intervals [22]:
+            xmin = 4.920925597026196 
+            xmax = 4.9868028566268 
+            text = "#" 
+        intervals [23]:
+            xmin = 4.9868028566268 
+            xmax = 5.3269887053840135 
+            text = "time" 
+        intervals [24]:
+            xmin = 5.3269887053840135 
+            xmax = 5.576414653526242 
+            text = "clock" 
+        intervals [25]:
+            xmin = 5.576414653526242 
+            xmax = 5.712488993029128 
+            text = "oh" 
+        intervals [26]:
+            xmin = 5.712488993029128 
+            xmax = 5.723270833333333 
+            text = "[length]" 

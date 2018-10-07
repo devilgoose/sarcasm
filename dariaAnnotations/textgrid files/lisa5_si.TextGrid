@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.9822291666666665 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.9822291666666665 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24706115760181002 
+            text = "can't" 
+        intervals [2]:
+            xmin = 0.24706115760181002 
+            xmax = 0.3130776670251405 
+            text = "you" 
+        intervals [3]:
+            xmin = 0.3130776670251405 
+            xmax = 0.5130110712267102 
+            text = "see" 
+        intervals [4]:
+            xmin = 0.5130110712267102 
+            xmax = 0.6530461159854908 
+            text = "the" 
+        intervals [5]:
+            xmin = 0.6530461159854908 
+            xmax = 0.9946501525444534 
+            text = "difference" 
+        intervals [6]:
+            xmin = 0.9946501525444534 
+            xmax = 1.3178519692668857 
+            text = "between" 
+        intervals [7]:
+            xmin = 1.3178519692668857 
+            xmax = 1.6291995029824116 
+            text = "earning" 
+        intervals [8]:
+            xmin = 1.6291995029824116 
+            xmax = 1.974698557318174 
+            text = "something" 
+        intervals [9]:
+            xmin = 1.974698557318174 
+            xmax = 2.0318201525433364 
+            text = "#" 
+        intervals [10]:
+            xmin = 2.0318201525433364 
+            xmax = 2.5526558870242986 
+            text = "honestly" 
+        intervals [11]:
+            xmin = 2.5526558870242986 
+            xmax = 2.71509198749675 
+            text = "and" 
+        intervals [12]:
+            xmin = 2.71509198749675 
+            xmax = 2.9164491332433085 
+            text = "getting" 
+        intervals [13]:
+            xmin = 2.9164491332433085 
+            xmax = 3.006147925273324 
+            text = "it" 
+        intervals [14]:
+            xmin = 3.006147925273324 
+            xmax = 3.089031865948145 
+            text = "#" 
+        intervals [15]:
+            xmin = 3.089031865948145 
+            xmax = 3.217122871150206 
+            text = "by" 
+        intervals [16]:
+            xmin = 3.217122871150206 
+            xmax = 3.7751408240035165 
+            text = "fraud" 
+        intervals [17]:
+            xmin = 3.7751408240035165 
+            xmax = 3.9822291666666665 
+            text = "[length]" 

@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.6803541666666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 3.6803541666666666 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5785086938100007 
+            text = "great" 
+        intervals [2]:
+            xmin = 0.5785086938100007 
+            xmax = 0.6941743121498961 
+            text = "#" 
+        intervals [3]:
+            xmin = 0.6941743121498961 
+            xmax = 0.8341905869824011 
+            text = "I" 
+        intervals [4]:
+            xmin = 0.8341905869824011 
+            xmax = 0.9924698541843632 
+            text = "hope" 
+        intervals [5]:
+            xmin = 0.9924698541843632 
+            xmax = 1.1203108007705633 
+            text = "I'm" 
+        intervals [6]:
+            xmin = 1.1203108007705633 
+            xmax = 1.2024942664331206 
+            text = "a" 
+        intervals [7]:
+            xmin = 1.2024942664331206 
+            xmax = 1.5738417779454164 
+            text = "waitress" 
+        intervals [8]:
+            xmin = 1.5738417779454164 
+            xmax = 1.665156739792702 
+            text = "at" 
+        intervals [9]:
+            xmin = 1.665156739792702 
+            xmax = 1.7610746916429108 
+            text = "the" 
+        intervals [10]:
+            xmin = 1.7610746916429108 
+            xmax = 2.2373971673690267 
+            text = "cheesecake" 
+        intervals [11]:
+            xmin = 2.2373971673690267 
+            xmax = 2.6544021598049654 
+            text = "factory" 
+        intervals [12]:
+            xmin = 2.6544021598049654 
+            xmax = 2.7836178037386174 
+            text = "for" 
+        intervals [13]:
+            xmin = 2.7836178037386174 
+            xmax = 2.949653869777856 
+            text = "my" 
+        intervals [14]:
+            xmin = 2.949653869777856 
+            xmax = 3.1901166026423753 
+            text = "whole" 
+        intervals [15]:
+            xmin = 3.1901166026423753 
+            xmax = 3.5066751370462996 
+            text = "life" 
+        intervals [16]:
+            xmin = 3.5066751370462996 
+            xmax = 3.6803541666666666 
+            text = "[length]" 

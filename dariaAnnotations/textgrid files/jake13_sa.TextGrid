@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.8444375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 2.8444375 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1548672494223278 
+            text = "as" 
+        intervals [2]:
+            xmin = 0.1548672494223278 
+            xmax = 0.21656850422779136 
+            text = "a" 
+        intervals [3]:
+            xmin = 0.21656850422779136 
+            xmax = 0.6800086962612062 
+            text = "result" 
+        intervals [4]:
+            xmin = 0.6800086962612062 
+            xmax = 0.8942664459818093 
+            text = "#" 
+        intervals [5]:
+            xmin = 0.8942664459818093 
+            xmax = 1.0422918920639772 
+            text = "I'm" 
+        intervals [6]:
+            xmin = 1.0422918920639772 
+            xmax = 1.1834411891299919 
+            text = "your" 
+        intervals [7]:
+            xmin = 1.1834411891299919 
+            xmax = 1.3081230682049714 
+            text = "good" 
+        intervals [8]:
+            xmin = 1.3081230682049714 
+            xmax = 1.5645442912082315 
+            text = "friend" 
+        intervals [9]:
+            xmin = 1.5645442912082315 
+            xmax = 1.7080460765586796 
+            text = "now" 
+        intervals [10]:
+            xmin = 1.7080460765586796 
+            xmax = 1.7692107719539527 
+            text = "and" 
+        intervals [11]:
+            xmin = 1.7692107719539527 
+            xmax = 1.8868351861756316 
+            text = "I" 
+        intervals [12]:
+            xmin = 1.8868351861756316 
+            xmax = 2.0820917137836186 
+            text = "wanna" 
+        intervals [13]:
+            xmin = 2.0820917137836186 
+            xmax = 2.239708428840668 
+            text = "hang" 
+        intervals [14]:
+            xmin = 2.239708428840668 
+            xmax = 2.4561373510085573 
+            text = "out" 
+        intervals [15]:
+            xmin = 2.4561373510085573 
+            xmax = 2.6396314371943763 
+            text = "more" 
+        intervals [16]:
+            xmin = 2.6396314371943763 
+            xmax = 2.8444375 
+            text = "[length]" 

@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.3436666666666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.3436666666666666 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02636271910837064 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.02636271910837064 
+            xmax = 0.1819896309409351 
+            text = "I" 
+        intervals [3]:
+            xmin = 0.1819896309409351 
+            xmax = 0.3978221190138781 
+            text = "told" 
+        intervals [4]:
+            xmin = 0.3978221190138781 
+            xmax = 0.47266587371293334 
+            text = "her" 
+        intervals [5]:
+            xmin = 0.47266587371293334 
+            xmax = 0.5685914239675747 
+            text = "I" 
+        intervals [6]:
+            xmin = 0.5685914239675747 
+            xmax = 0.7399940349136926 
+            text = "just" 
+        intervals [7]:
+            xmin = 0.7399940349136926 
+            xmax = 0.955629954313711 
+            text = "got" 
+        intervals [8]:
+            xmin = 0.955629954313711 
+            xmax = 1.1683002469075296 
+            text = "back" 
+        intervals [9]:
+            xmin = 1.1683002469075296 
+            xmax = 1.3640088893044842 
+            text = "from" 
+        intervals [10]:
+            xmin = 1.3640088893044842 
+            xmax = 1.5007058227834855 
+            text = "a" 
+        intervals [11]:
+            xmin = 1.5007058227834855 
+            xmax = 1.9900767661734184 
+            text = "gallery" 
+        intervals [12]:
+            xmin = 1.9900767661734184 
+            xmax = 2.407738475314484 
+            text = "opening" 
+        intervals [13]:
+            xmin = 2.407738475314484 
+            xmax = 2.525247851847162 
+            text = "in" 
+        intervals [14]:
+            xmin = 2.525247851847162 
+            xmax = 2.966926343961855 
+            text = "hunter's" 
+        intervals [15]:
+            xmin = 2.966926343961855 
+            xmax = 3.2367169535134526 
+            text = "point" 
+        intervals [16]:
+            xmin = 3.2367169535134526 
+            xmax = 3.3436666666666666 
+            text = "[length]" 

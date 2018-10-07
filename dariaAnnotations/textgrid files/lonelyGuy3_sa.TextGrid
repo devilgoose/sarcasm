@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.237645833333334 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 4.237645833333334 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19724982257702764 
+            text = "there's" 
+        intervals [2]:
+            xmin = 0.19724982257702764 
+            xmax = 0.6555942172535689 
+            text = "nothing" 
+        intervals [3]:
+            xmin = 0.6555942172535689 
+            xmax = 0.9184496722379578 
+            text = "I" 
+        intervals [4]:
+            xmin = 0.9184496722379578 
+            xmax = 1.1287340362254688 
+            text = "would" 
+        intervals [5]:
+            xmin = 1.1287340362254688 
+            xmax = 1.6754733825929975 
+            text = "rather" 
+        intervals [6]:
+            xmin = 1.6754733825929975 
+            xmax = 1.9418335769771782 
+            text = "do" 
+        intervals [7]:
+            xmin = 1.9418335769771782 
+            xmax = 2.09604211056802 
+            text = "than" 
+        intervals [8]:
+            xmin = 2.09604211056802 
+            xmax = 2.2454468084159265 
+            text = "just" 
+        intervals [9]:
+            xmin = 2.2454468084159265 
+            xmax = 2.566395833333333 
+            text = "stand" 
+        intervals [10]:
+            xmin = 2.566395833333333 
+            xmax = 2.7030699961413203 
+            text = "here" 
+        intervals [11]:
+            xmin = 2.7030699961413203 
+            xmax = 2.9582080029168147 
+            text = "and" 
+        intervals [12]:
+            xmin = 2.9582080029168147 
+            xmax = 3.4839189128855925 
+            text = "chat" 
+        intervals [13]:
+            xmin = 3.4839189128855925 
+            xmax = 3.7047174950724786 
+            text = "with" 
+        intervals [14]:
+            xmin = 3.7047174950724786 
+            xmax = 4.107762526048542 
+            text = "you" 
+        intervals [15]:
+            xmin = 4.107762526048542 
+            xmax = 4.237645833333334 
+            text = "[length]" 

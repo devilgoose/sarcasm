@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.557125 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 5.557125 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3173975893410586 
+            text = "is" 
+        intervals [2]:
+            xmin = 0.3173975893410586 
+            xmax = 0.5563902604041118 
+            text = "that" 
+        intervals [3]:
+            xmin = 0.5563902604041118 
+            xmax = 1.0711437057706876 
+            text = "#" 
+        intervals [4]:
+            xmin = 1.0711437057706876 
+            xmax = 1.2274081445426839 
+            text = "a" 
+        intervals [5]:
+            xmin = 1.2274081445426839 
+            xmax = 1.549129047896794 
+            text = "cat" 
+        intervals [6]:
+            xmin = 1.549129047896794 
+            xmax = 1.9075237046712923 
+            text = "being" 
+        intervals [7]:
+            xmin = 1.9075237046712923 
+            xmax = 2.2201469320353664 
+            text = "gutted" 
+        intervals [8]:
+            xmin = 2.2201469320353664 
+            xmax = 2.3852841141492456 
+            text = "by" 
+        intervals [9]:
+            xmin = 2.3852841141492456 
+            xmax = 2.513463736204306 
+            text = "a" 
+        intervals [10]:
+            xmin = 2.513463736204306 
+            xmax = 2.8630384496296184 
+            text = "fishing" 
+        intervals [11]:
+            xmin = 2.8630384496296184 
+            xmax = 3.304805977629223 
+            text = "knife" 
+        intervals [12]:
+            xmin = 3.304805977629223 
+            xmax = 3.573858791387081 
+            text = "#" 
+        intervals [13]:
+            xmin = 3.573858791387081 
+            xmax = 4.127492287634732 
+            text = "no" 
+        intervals [14]:
+            xmin = 4.127492287634732 
+            xmax = 4.389547295373831 
+            text = "#" 
+        intervals [15]:
+            xmin = 4.389547295373831 
+            xmax = 4.669821810431661 
+            text = "that's" 
+        intervals [16]:
+            xmin = 4.669821810431661 
+            xmax = 4.960529248164556 
+            text = "my" 
+        intervals [17]:
+            xmin = 4.960529248164556 
+            xmax = 5.405183875241055 
+            text = "son" 
+        intervals [18]:
+            xmin = 5.405183875241055 
+            xmax = 5.557125 
+            text = "[length]" 

@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.4249375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 3.4249375 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20544681235974324 
+            text = "because" 
+        intervals [2]:
+            xmin = 0.20544681235974324 
+            xmax = 0.33149706932379736 
+            text = "I" 
+        intervals [3]:
+            xmin = 0.33149706932379736 
+            xmax = 0.4830406366850759 
+            text = "thought" 
+        intervals [4]:
+            xmin = 0.4830406366850759 
+            xmax = 0.610507188671198 
+            text = "we'd" 
+        intervals [5]:
+            xmin = 0.610507188671198 
+            xmax = 0.9320061586806394 
+            text = "all" 
+        intervals [6]:
+            xmin = 0.9320061586806394 
+            xmax = 1.1147082165274145 
+            text = "go" 
+        intervals [7]:
+            xmin = 1.1147082165274145 
+            xmax = 1.393819049774142 
+            text = "out" 
+        intervals [8]:
+            xmin = 1.393819049774142 
+            xmax = 1.5657183784047513 
+            text = "and" 
+        intervals [9]:
+            xmin = 1.5657183784047513 
+            xmax = 1.9994879564352506 
+            text = "toilet" 
+        intervals [10]:
+            xmin = 1.9994879564352506 
+            xmax = 2.3011587961357396 
+            text = "paper" 
+        intervals [11]:
+            xmin = 2.3011587961357396 
+            xmax = 2.4042999192057914 
+            text = "the" 
+        intervals [12]:
+            xmin = 2.4042999192057914 
+            xmax = 2.8957542918633954 
+            text = "Weston's" 
+        intervals [13]:
+            xmin = 2.8957542918633954 
+            xmax = 3.1839992779286765 
+            text = "house" 
+        intervals [14]:
+            xmin = 3.1839992779286765 
+            xmax = 3.4249375 
+            text = "[length]" 

@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.7283541666666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 2.7283541666666666 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06275762349130588 
+            text = "do" 
+        intervals [2]:
+            xmin = 0.06275762349130588 
+            xmax = 0.21496335491619745 
+            text = "you" 
+        intervals [3]:
+            xmin = 0.21496335491619745 
+            xmax = 0.47163815018374466 
+            text = "know" 
+        intervals [4]:
+            xmin = 0.47163815018374466 
+            xmax = 0.7604211949664623 
+            text = "me" 
+        intervals [5]:
+            xmin = 0.7604211949664623 
+            xmax = 1.0383572935341614 
+            text = "or" 
+        intervals [6]:
+            xmin = 1.0383572935341614 
+            xmax = 1.1710223703154166 
+            text = "#" 
+        intervals [7]:
+            xmin = 1.1710223703154166 
+            xmax = 1.3356788469864274 
+            text = "are" 
+        intervals [8]:
+            xmin = 1.3356788469864274 
+            xmax = 1.4218725985468812 
+            text = "you" 
+        intervals [9]:
+            xmin = 1.4218725985468812 
+            xmax = 1.6206612104554845 
+            text = "just" 
+        intervals [10]:
+            xmin = 1.6206612104554845 
+            xmax = 1.9097722159068273 
+            text = "really" 
+        intervals [11]:
+            xmin = 1.9097722159068273 
+            xmax = 2.032302402133011 
+            text = "good" 
+        intervals [12]:
+            xmin = 2.032302402133011 
+            xmax = 2.13034330370817 
+            text = "at" 
+        intervals [13]:
+            xmin = 2.13034330370817 
+            xmax = 2.3168411837684486 
+            text = "this" 
+        intervals [14]:
+            xmin = 2.3168411837684486 
+            xmax = 2.647087353623791 
+            text = "game" 
+        intervals [15]:
+            xmin = 2.647087353623791 
+            xmax = 2.7283541666666666 
+            text = "[length]" 

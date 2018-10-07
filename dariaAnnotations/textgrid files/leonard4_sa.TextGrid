@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.3916458333333335 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 2.3916458333333335 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28890646257929953 
+            text = "maybe" 
+        intervals [2]:
+            xmin = 0.28890646257929953 
+            xmax = 0.3719827789842492 
+            text = "a" 
+        intervals [3]:
+            xmin = 0.3719827789842492 
+            xmax = 0.7908597401589835 
+            text = "tableau" 
+        intervals [4]:
+            xmin = 0.7908597401589835 
+            xmax = 0.931758910950934 
+            text = "of" 
+        intervals [5]:
+            xmin = 0.931758910950934 
+            xmax = 1.1093137551216818 
+            text = "me" 
+        intervals [6]:
+            xmin = 1.1093137551216818 
+            xmax = 1.3174703799739145 
+            text = "trying" 
+        intervals [7]:
+            xmin = 1.3174703799739145 
+            xmax = 1.4618649299158508 
+            text = "to" 
+        intervals [8]:
+            xmin = 1.4618649299158508 
+            xmax = 1.7724121126676866 
+            text = "pummel" 
+        intervals [9]:
+            xmin = 1.7724121126676866 
+            xmax = 1.8866424530621266 
+            text = "you" 
+        intervals [10]:
+            xmin = 1.8866424530621266 
+            xmax = 2.003838994081475 
+            text = "to" 
+        intervals [11]:
+            xmin = 2.003838994081475 
+            xmax = 2.2748260261642868 
+            text = "death" 
+        intervals [12]:
+            xmin = 2.2748260261642868 
+            xmax = 2.3916458333333335 
+            text = "[length]" 

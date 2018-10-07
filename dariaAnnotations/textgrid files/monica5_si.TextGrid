@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.1346875 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.1346875 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.030690821507752885 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.030690821507752885 
+            xmax = 0.23173399447329618 
+            text = "Ed" 
+        intervals [3]:
+            xmin = 0.23173399447329618 
+            xmax = 0.5874268051549906 
+            text = "Chen" 
+        intervals [4]:
+            xmin = 0.5874268051549906 
+            xmax = 0.8043744177118845 
+            text = "has" 
+        intervals [5]:
+            xmin = 0.8043744177118845 
+            xmax = 0.9131434003044578 
+            text = "been" 
+        intervals [6]:
+            xmin = 0.9131434003044578 
+            xmax = 1.2079787033125 
+            text = "making" 
+        intervals [7]:
+            xmin = 1.2079787033125 
+            xmax = 1.4815760730507654 
+            text = "moves" 
+        intervals [8]:
+            xmin = 1.4815760730507654 
+            xmax = 1.7702286685764659 
+            text = "behind" 
+        intervals [9]:
+            xmin = 1.7702286685764659 
+            xmax = 1.8766988882375848 
+            text = "your" 
+        intervals [10]:
+            xmin = 1.8766988882375848 
+            xmax = 2.1055426195882316 
+            text = "back" 
+        intervals [11]:
+            xmin = 2.1055426195882316 
+            xmax = 2.2226598610983452 
+            text = "with" 
+        intervals [12]:
+            xmin = 2.2226598610983452 
+            xmax = 2.312568046500049 
+            text = "the" 
+        intervals [13]:
+            xmin = 2.312568046500049 
+            xmax = 2.5195934734118657 
+            text = "other" 
+        intervals [14]:
+            xmin = 2.5195934734118657 
+            xmax = 3.0377485419111565 
+            text = "partners" 
+        intervals [15]:
+            xmin = 3.0377485419111565 
+            xmax = 3.1346875 
+            text = "[length]" 

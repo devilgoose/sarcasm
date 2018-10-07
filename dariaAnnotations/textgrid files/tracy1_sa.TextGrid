@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.0170625 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 4.0170625 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3257831370276467 
+            text = "oh" 
+        intervals [2]:
+            xmin = 0.3257831370276467 
+            xmax = 0.654691455259163 
+            text = "#" 
+        intervals [3]:
+            xmin = 0.654691455259163 
+            xmax = 0.9271205673297117 
+            text = "you're" 
+        intervals [4]:
+            xmin = 0.9271205673297117 
+            xmax = 1.0467235921411722 
+            text = "the" 
+        intervals [5]:
+            xmin = 1.0467235921411722 
+            xmax = 1.2095165981345488 
+            text = "one" 
+        intervals [6]:
+            xmin = 1.2095165981345488 
+            xmax = 1.404156057148943 
+            text = "who" 
+        intervals [7]:
+            xmin = 1.404156057148943 
+            xmax = 1.8341101721499533 
+            text = "solved" 
+        intervals [8]:
+            xmin = 1.8341101721499533 
+            xmax = 2.126473121689079 
+            text = "that" 
+        intervals [9]:
+            xmin = 2.126473121689079 
+            xmax = 2.262687677724353 
+            text = "#" 
+        intervals [10]:
+            xmin = 2.262687677724353 
+            xmax = 2.6181744459139717 
+            text = "thank" 
+        intervals [11]:
+            xmin = 2.6181744459139717 
+            xmax = 2.857380495536893 
+            text = "you" 
+        intervals [12]:
+            xmin = 2.857380495536893 
+            xmax = 3.3989164134332275 
+            text = "so" 
+        intervals [13]:
+            xmin = 3.3989164134332275 
+            xmax = 3.967030781287664 
+            text = "much" 
+        intervals [14]:
+            xmin = 3.967030781287664 
+            xmax = 4.0170625 
+            text = "[length]" 

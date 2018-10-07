@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.4930625 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 4.4930625 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27021519374537695 
+            text = "no" 
+        intervals [2]:
+            xmin = 0.27021519374537695 
+            xmax = 0.7359848038951926 
+            text = "Rose" 
+        intervals [3]:
+            xmin = 0.7359848038951926 
+            xmax = 0.9626596703463445 
+            text = "#" 
+        intervals [4]:
+            xmin = 0.9626596703463445 
+            xmax = 1.2401222820392024 
+            text = "she's" 
+        intervals [5]:
+            xmin = 1.2401222820392024 
+            xmax = 1.705855953792744 
+            text = "depressed" 
+        intervals [6]:
+            xmin = 1.705855953792744 
+            xmax = 2.0223054177600295 
+            text = "because" 
+        intervals [7]:
+            xmin = 2.0223054177600295 
+            xmax = 2.6125554195973515 
+            text = "marblehead" 
+        intervals [8]:
+            xmin = 2.6125554195973515 
+            xmax = 3.062912368727817 
+            text = "manor" 
+        intervals [9]:
+            xmin = 3.062912368727817 
+            xmax = 3.1922485206855433 
+            text = "is" 
+        intervals [10]:
+            xmin = 3.1922485206855433 
+            xmax = 3.4621033482670867 
+            text = "only" 
+        intervals [11]:
+            xmin = 3.4621033482670867 
+            xmax = 3.708769937680791 
+            text = "on" 
+        intervals [12]:
+            xmin = 3.708769937680791 
+            xmax = 3.993406919776513 
+            text = "once" 
+        intervals [13]:
+            xmin = 3.993406919776513 
+            xmax = 4.095232005072918 
+            text = "a" 
+        intervals [14]:
+            xmin = 4.095232005072918 
+            xmax = 4.3516347228619265 
+            text = "week" 
+        intervals [15]:
+            xmin = 4.3516347228619265 
+            xmax = 4.4930625 
+            text = "[length]" 

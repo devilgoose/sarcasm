@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.3800416666666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.3800416666666666 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0552322822923004 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.0552322822923004 
+            xmax = 0.16940008100935142 
+            text = "I" 
+        intervals [3]:
+            xmin = 0.16940008100935142 
+            xmax = 0.383956806184499 
+            text = "came" 
+        intervals [4]:
+            xmin = 0.383956806184499 
+            xmax = 0.5985135313596466 
+            text = "close" 
+        intervals [5]:
+            xmin = 0.5985135313596466 
+            xmax = 0.6892587589688001 
+            text = "to" 
+        intervals [6]:
+            xmin = 0.6892587589688001 
+            xmax = 1.2165943726898882 
+            text = "madness" 
+        intervals [7]:
+            xmin = 1.2165943726898882 
+            xmax = 1.3944491805055885 
+            text = "trying" 
+        intervals [8]:
+            xmin = 1.3944491805055885 
+            xmax = 1.4743005618068998 
+            text = "to" 
+        intervals [9]:
+            xmin = 1.4743005618068998 
+            xmax = 1.665051164847489 
+            text = "find" 
+        intervals [10]:
+            xmin = 1.665051164847489 
+            xmax = 1.74392664986464 
+            text = "it" 
+        intervals [11]:
+            xmin = 1.74392664986464 
+            xmax = 1.839504292423179 
+            text = "here" 
+        intervals [12]:
+            xmin = 1.839504292423179 
+            xmax = 1.9273102591941191 
+            text = "in" 
+        intervals [13]:
+            xmin = 1.9273102591941191 
+            xmax = 1.9846546275209302 
+            text = "the" 
+        intervals [14]:
+            xmin = 1.9846546275209302 
+            xmax = 2.2813677992617793 
+            text = "states" 
+        intervals [15]:
+            xmin = 2.2813677992617793 
+            xmax = 2.3800416666666666 
+            text = "[length]" 

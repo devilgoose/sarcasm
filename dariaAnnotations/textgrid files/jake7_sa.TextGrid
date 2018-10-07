@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.4582291666666665 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 4.4582291666666665 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08131356163470012 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.08131356163470012 
+            xmax = 0.2158089814290695 
+            text = "made" 
+        intervals [3]:
+            xmin = 0.2158089814290695 
+            xmax = 0.3524179343409476 
+            text = "me" 
+        intervals [4]:
+            xmin = 0.3524179343409476 
+            xmax = 0.6195543761819593 
+            text = "realize" 
+        intervals [5]:
+            xmin = 0.6195543761819593 
+            xmax = 0.6749386535949317 
+            text = "that" 
+        intervals [6]:
+            xmin = 0.6749386535949317 
+            xmax = 0.8149745215874675 
+            text = "I" 
+        intervals [7]:
+            xmin = 0.8149745215874675 
+            xmax = 0.9413688129786576 
+            text = "was" 
+        intervals [8]:
+            xmin = 0.9413688129786576 
+            xmax = 1.1154790848053717 
+            text = "wrong" 
+        intervals [9]:
+            xmin = 1.1154790848053717 
+            xmax = 1.1836917770695585 
+            text = "and" 
+        intervals [10]:
+            xmin = 1.1836917770695585 
+            xmax = 1.4030785440814029 
+            text = "makes" 
+        intervals [11]:
+            xmin = 1.4030785440814029 
+            xmax = 1.5155373070034406 
+            text = "you" 
+        intervals [12]:
+            xmin = 1.5155373070034406 
+            xmax = 1.6150909659836052 
+            text = "look" 
+        intervals [13]:
+            xmin = 1.6150909659836052 
+            xmax = 2.074630210014689 
+            text = "smart" 
+        intervals [14]:
+            xmin = 2.074630210014689 
+            xmax = 2.642782462376487 
+            text = "#" 
+        intervals [15]:
+            xmin = 2.642782462376487 
+            xmax = 2.7788948027870792 
+            text = "and" 
+        intervals [16]:
+            xmin = 2.7788948027870792 
+            xmax = 2.890515768470127 
+            text = "me" 
+        intervals [17]:
+            xmin = 2.890515768470127 
+            xmax = 3.0222481914052595 
+            text = "look" 
+        intervals [18]:
+            xmin = 3.0222481914052595 
+            xmax = 3.470990260817861 
+            text = "stupider" 
+        intervals [19]:
+            xmin = 3.470990260817861 
+            xmax = 3.6424437846170337 
+            text = "by" 
+        intervals [20]:
+            xmin = 3.6424437846170337 
+            xmax = 4.094933283771352 
+            text = "comparison" 
+        intervals [21]:
+            xmin = 4.094933283771352 
+            xmax = 4.4582291666666665 
+            text = "[length]" 

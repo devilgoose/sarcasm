@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.597541666666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.597541666666666 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17136652712539366 
+            text = "I" 
+        intervals [2]:
+            xmin = 0.17136652712539366 
+            xmax = 0.27717064866036084 
+            text = "would" 
+        intervals [3]:
+            xmin = 0.27717064866036084 
+            xmax = 0.6445971749370487 
+            text = "say" 
+        intervals [4]:
+            xmin = 0.6445971749370487 
+            xmax = 0.9158024071314114 
+            text = "even" 
+        intervals [5]:
+            xmin = 0.9158024071314114 
+            xmax = 1.1432037310807976 
+            text = "with" 
+        intervals [6]:
+            xmin = 1.1432037310807976 
+            xmax = 1.447631283998554 
+            text = "this" 
+        intervals [7]:
+            xmin = 1.447631283998554 
+            xmax = 2.0259579588375662 
+            text = "change" 
+        intervals [8]:
+            xmin = 2.0259579588375662 
+            xmax = 2.392798246725433 
+            text = "#" 
+        intervals [9]:
+            xmin = 2.392798246725433 
+            xmax = 2.5489458953445214 
+            text = "it's" 
+        intervals [10]:
+            xmin = 2.5489458953445214 
+            xmax = 2.610566455419113 
+            text = "a" 
+        intervals [11]:
+            xmin = 2.610566455419113 
+            xmax = 2.717731074841 
+            text = "bit" 
+        intervals [12]:
+            xmin = 2.717731074841 
+            xmax = 2.815840658900027 
+            text = "of" 
+        intervals [13]:
+            xmin = 2.815840658900027 
+            xmax = 3.071553602259861 
+            text = "a" 
+        intervals [14]:
+            xmin = 3.071553602259861 
+            xmax = 3.926684911698279 
+            text = "downturn" 
+        intervals [15]:
+            xmin = 3.926684911698279 
+            xmax = 4.020307985261677 
+            text = "in" 
+        intervals [16]:
+            xmin = 4.020307985261677 
+            xmax = 4.1315320565929605 
+            text = "a" 
+        intervals [17]:
+            xmin = 4.1315320565929605 
+            xmax = 4.419959986768537 
+            text = "way" 
+        intervals [18]:
+            xmin = 4.419959986768537 
+            xmax = 4.597541666666666 
+            text = "[length]" 

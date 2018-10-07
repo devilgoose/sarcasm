@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.044583333333334 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 4.044583333333334 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.03856751187818299 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.03856751187818299 
+            xmax = 0.14728219957308372 
+            text = "I" 
+        intervals [3]:
+            xmin = 0.14728219957308372 
+            xmax = 0.32958836816914805 
+            text = "know" 
+        intervals [4]:
+            xmin = 0.32958836816914805 
+            xmax = 0.39983478175662235 
+            text = "that" 
+        intervals [5]:
+            xmin = 0.39983478175662235 
+            xmax = 0.4638976522989726 
+            text = "it" 
+        intervals [6]:
+            xmin = 0.4638976522989726 
+            xmax = 0.7611020516350617 
+            text = "must" 
+        intervals [7]:
+            xmin = 0.7611020516350617 
+            xmax = 1.0237890735304247 
+            text = "be" 
+        intervals [8]:
+            xmin = 1.0237890735304247 
+            xmax = 1.5537133303737956 
+            text = "#" 
+        intervals [9]:
+            xmin = 1.5537133303737956 
+            xmax = 1.7541074105481549 
+            text = "because" 
+        intervals [10]:
+            xmin = 1.7541074105481549 
+            xmax = 1.8979453050367927 
+            text = "you" 
+        intervals [11]:
+            xmin = 1.8979453050367927 
+            xmax = 2.0367655985548967 
+            text = "said" 
+        intervals [12]:
+            xmin = 2.0367655985548967 
+            xmax = 2.117047214083439 
+            text = "it" 
+        intervals [13]:
+            xmin = 2.117047214083439 
+            xmax = 2.2391421710330968 
+            text = "with" 
+        intervals [14]:
+            xmin = 2.2391421710330968 
+            xmax = 2.545996866052817 
+            text = "such" 
+        intervals [15]:
+            xmin = 2.545996866052817 
+            xmax = 2.968073488453218 
+            text = "conviction" 
+        intervals [16]:
+            xmin = 2.968073488453218 
+            xmax = 3.0718223294040934 
+            text = "and" 
+        intervals [17]:
+            xmin = 3.0718223294040934 
+            xmax = 3.596245075528217 
+            text = "confidence" 
+        intervals [18]:
+            xmin = 3.596245075528217 
+            xmax = 4.044583333333334 
+            text = "[length]" 

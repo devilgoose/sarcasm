@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.043375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 5.043375 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09814498524613452 
+            text = "but" 
+        intervals [2]:
+            xmin = 0.09814498524613452 
+            xmax = 0.273331884330125 
+            text = "it's" 
+        intervals [3]:
+            xmin = 0.273331884330125 
+            xmax = 0.43809099180197325 
+            text = "so" 
+        intervals [4]:
+            xmin = 0.43809099180197325 
+            xmax = 0.7071280153952444 
+            text = "nice" 
+        intervals [5]:
+            xmin = 0.7071280153952444 
+            xmax = 0.828090398096095 
+            text = "to" 
+        intervals [6]:
+            xmin = 0.828090398096095 
+            xmax = 0.9657372473763732 
+            text = "see" 
+        intervals [7]:
+            xmin = 0.9657372473763732 
+            xmax = 1.1075552133015083 
+            text = "her" 
+        intervals [8]:
+            xmin = 1.1075552133015083 
+            xmax = 1.879211792600038 
+            text = "demonstrating" 
+        intervals [9]:
+            xmin = 1.879211792600038 
+            xmax = 1.9542918922074624 
+            text = "that" 
+        intervals [10]:
+            xmin = 1.9542918922074624 
+            xmax = 2.1232221163241674 
+            text = "she" 
+        intervals [11]:
+            xmin = 2.1232221163241674 
+            xmax = 2.444931622887858 
+            text = "also" 
+        intervals [12]:
+            xmin = 2.444931622887858 
+            xmax = 2.661829688420418 
+            text = "has" 
+        intervals [13]:
+            xmin = 2.661829688420418 
+            xmax = 2.847444379116551 
+            text = "this" 
+        intervals [14]:
+            xmin = 2.847444379116551 
+            xmax = 3.169832535135478 
+            text = "really" 
+        intervals [15]:
+            xmin = 3.169832535135478 
+            xmax = 3.760045540382732 
+            text = "solid" 
+        intervals [16]:
+            xmin = 3.760045540382732 
+            xmax = 4.336246984604756 
+            text = "musical" 
+        intervals [17]:
+            xmin = 4.336246984604756 
+            xmax = 4.99319785616972 
+            text = "background" 
+        intervals [18]:
+            xmin = 4.99319785616972 
+            xmax = 5.043375 
+            text = "[length]" 

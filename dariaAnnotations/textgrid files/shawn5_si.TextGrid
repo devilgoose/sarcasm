@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.328979166666667 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 5.328979166666667 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3537263990578802 
+            text = "they're" 
+        intervals [2]:
+            xmin = 0.3537263990578802 
+            xmax = 0.6357651948024516 
+            text = "kind" 
+        intervals [3]:
+            xmin = 0.6357651948024516 
+            xmax = 0.8766144999383135 
+            text = "of" 
+        intervals [4]:
+            xmin = 0.8766144999383135 
+            xmax = 1.64083557045587 
+            text = "unintentionally" 
+        intervals [5]:
+            xmin = 1.64083557045587 
+            xmax = 2.7978511879088477 
+            text = "prioritizing" 
+        intervals [6]:
+            xmin = 2.7978511879088477 
+            xmax = 2.9054014487093087 
+            text = "the" 
+        intervals [7]:
+            xmin = 2.9054014487093087 
+            xmax = 3.6540132088018358 
+            text = "lifestyle" 
+        intervals [8]:
+            xmin = 3.6540132088018358 
+            xmax = 3.7806545679050276 
+            text = "that" 
+        intervals [9]:
+            xmin = 3.7806545679050276 
+            xmax = 3.94431118265763 
+            text = "the" 
+        intervals [10]:
+            xmin = 3.94431118265763 
+            xmax = 4.335720398070411 
+            text = "artist" 
+        intervals [11]:
+            xmin = 4.335720398070411 
+            xmax = 4.452364666728354 
+            text = "is" 
+        intervals [12]:
+            xmin = 4.452364666728354 
+            xmax = 4.867757570083786 
+            text = "presenting" 
+        intervals [13]:
+            xmin = 4.867757570083786 
+            xmax = 4.995462933183429 
+            text = "to" 
+        intervals [14]:
+            xmin = 4.995462933183429 
+            xmax = 5.189221446263575 
+            text = "them" 
+        intervals [15]:
+            xmin = 5.189221446263575 
+            xmax = 5.328979166666667 
+            text = "[length]" 

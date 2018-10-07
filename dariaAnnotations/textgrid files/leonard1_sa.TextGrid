@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.8777291666666667 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 3.8777291666666667 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11564483630849894 
+            text = "a" 
+        intervals [2]:
+            xmin = 0.11564483630849894 
+            xmax = 0.2663771636790657 
+            text = "well" 
+        intervals [3]:
+            xmin = 0.2663771636790657 
+            xmax = 0.47162969456664605 
+            text = "known" 
+        intervals [4]:
+            xmin = 0.47162969456664605 
+            xmax = 0.7827155616931349 
+            text = "folk" 
+        intervals [5]:
+            xmin = 0.7827155616931349 
+            xmax = 1.0072105173514259 
+            text = "cure" 
+        intervals [6]:
+            xmin = 1.0072105173514259 
+            xmax = 1.1290792075659268 
+            text = "for" 
+        intervals [7]:
+            xmin = 1.1290792075659268 
+            xmax = 1.7769075081798522 
+            text = "insomnia's" 
+        intervals [8]:
+            xmin = 1.7769075081798522 
+            xmax = 1.9083974107797084 
+            text = "to" 
+        intervals [9]:
+            xmin = 1.9083974107797084 
+            xmax = 2.1296852956428807 
+            text = "break" 
+        intervals [10]:
+            xmin = 2.1296852956428807 
+            xmax = 2.290038835398803 
+            text = "into" 
+        intervals [11]:
+            xmin = 2.290038835398803 
+            xmax = 2.376629746867001 
+            text = "your" 
+        intervals [12]:
+            xmin = 2.376629746867001 
+            xmax = 2.674887330813016 
+            text = "neighbours" 
+        intervals [13]:
+            xmin = 2.674887330813016 
+            xmax = 3.1399125961051904 
+            text = "apartment" 
+        intervals [14]:
+            xmin = 3.1399125961051904 
+            xmax = 3.335543914607415 
+            text = "and" 
+        intervals [15]:
+            xmin = 3.335543914607415 
+            xmax = 3.7396348347923385 
+            text = "clean" 
+        intervals [16]:
+            xmin = 3.7396348347923385 
+            xmax = 3.8777291666666667 
+            text = "[length]" 

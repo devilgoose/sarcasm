@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.937333333333333 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 2.937333333333333 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2309293184261778 
+            text = "'cause" 
+        intervals [2]:
+            xmin = 0.2309293184261778 
+            xmax = 0.5321647083806834 
+            text = "hugging" 
+        intervals [3]:
+            xmin = 0.5321647083806834 
+            xmax = 0.6414840031222379 
+            text = "and" 
+        intervals [4]:
+            xmin = 0.6414840031222379 
+            xmax = 1.1856511591690868 
+            text = "safety" 
+        intervals [5]:
+            xmin = 1.1856511591690868 
+            xmax = 1.3470210485523482 
+            text = "#" 
+        intervals [6]:
+            xmin = 1.3470210485523482 
+            xmax = 1.4640472128142243 
+            text = "is" 
+        intervals [7]:
+            xmin = 1.4640472128142243 
+            xmax = 1.6229283381353046 
+            text = "what" 
+        intervals [8]:
+            xmin = 1.6229283381353046 
+            xmax = 1.7784046684344041 
+            text = "the" 
+        intervals [9]:
+            xmin = 1.7784046684344041 
+            xmax = 2.040770975814135 
+            text = "world" 
+        intervals [10]:
+            xmin = 2.040770975814135 
+            xmax = 2.1695248118430768 
+            text = "is" 
+        intervals [11]:
+            xmin = 2.1695248118430768 
+            xmax = 2.3930220366480324 
+            text = "all" 
+        intervals [12]:
+            xmin = 2.3930220366480324 
+            xmax = 2.7817128623957816 
+            text = "about" 
+        intervals [13]:
+            xmin = 2.7817128623957816 
+            xmax = 2.937333333333333 
+            text = "[length]" 

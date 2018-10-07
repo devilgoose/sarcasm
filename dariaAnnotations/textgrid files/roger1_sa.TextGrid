@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.514729166666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 5.514729166666666 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28761043612684667 
+            text = "oh" 
+        intervals [2]:
+            xmin = 0.28761043612684667 
+            xmax = 0.4472436681715873 
+            text = "but" 
+        intervals [3]:
+            xmin = 0.4472436681715873 
+            xmax = 0.6556451300836367 
+            text = "why" 
+        intervals [4]:
+            xmin = 0.6556451300836367 
+            xmax = 0.9626309602017498 
+            text = "stop" 
+        intervals [5]:
+            xmin = 0.9626309602017498 
+            xmax = 1.4004821109530383 
+            text = "there" 
+        intervals [6]:
+            xmin = 1.4004821109530383 
+            xmax = 1.8120244716240472 
+            text = "#" 
+        intervals [7]:
+            xmin = 1.8120244716240472 
+            xmax = 2.221453018611704 
+            text = "since" 
+        intervals [8]:
+            xmin = 2.221453018611704 
+            xmax = 2.7140355632069038 
+            text = "football" 
+        intervals [9]:
+            xmin = 2.7140355632069038 
+            xmax = 2.9694487344784886 
+            text = "is" 
+        intervals [10]:
+            xmin = 2.9694487344784886 
+            xmax = 3.41186083471677 
+            text = "so" 
+        intervals [11]:
+            xmin = 3.41186083471677 
+            xmax = 4.18722224750551 
+            text = "barbaric" 
+        intervals [12]:
+            xmin = 4.18722224750551 
+            xmax = 4.351416429037243 
+            text = "#" 
+        intervals [13]:
+            xmin = 4.351416429037243 
+            xmax = 4.517952130828608 
+            text = "we" 
+        intervals [14]:
+            xmin = 4.517952130828608 
+            xmax = 4.729975236457627 
+            text = "should" 
+        intervals [15]:
+            xmin = 4.729975236457627 
+            xmax = 5.154143538747938 
+            text = "change" 
+        intervals [16]:
+            xmin = 5.154143538747938 
+            xmax = 5.496214750272382 
+            text = "too" 
+        intervals [17]:
+            xmin = 5.496214750272382 
+            xmax = 5.514729166666666 
+            text = "[length]" 

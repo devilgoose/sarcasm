@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.1463125 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.1463125 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3659288344381804 
+            text = "causing" 
+        intervals [2]:
+            xmin = 0.3659288344381804 
+            xmax = 0.453885937037151 
+            text = "the" 
+        intervals [3]:
+            xmin = 0.453885937037151 
+            xmax = 0.8572135939792577 
+            text = "false" 
+        intervals [4]:
+            xmin = 0.8572135939792577 
+            xmax = 1.4615103376193053 
+            text = "positives" 
+        intervals [5]:
+            xmin = 1.4615103376193053 
+            xmax = 1.586435829874742 
+            text = "on" 
+        intervals [6]:
+            xmin = 1.586435829874742 
+            xmax = 1.7154022092685983 
+            text = "my" 
+        intervals [7]:
+            xmin = 1.7154022092685983 
+            xmax = 2.003084552808857 
+            text = "home" 
+        intervals [8]:
+            xmin = 2.003084552808857 
+            xmax = 2.5505097987318486 
+            text = "pregnancy" 
+        intervals [9]:
+            xmin = 2.5505097987318486 
+            xmax = 3.095493306872869 
+            text = "tests" 
+        intervals [10]:
+            xmin = 3.095493306872869 
+            xmax = 3.1463125 
+            text = "[length]" 

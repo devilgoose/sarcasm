@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.8745208333333334 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.8745208333333334 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14826108843509442 
+            text = "no" 
+        intervals [2]:
+            xmin = 0.14826108843509442 
+            xmax = 0.23787792486804146 
+            text = "it" 
+        intervals [3]:
+            xmin = 0.23787792486804146 
+            xmax = 0.49580026927965903 
+            text = "doesn't" 
+        intervals [4]:
+            xmin = 0.49580026927965903 
+            xmax = 0.6073136878490496 
+            text = "it" 
+        intervals [5]:
+            xmin = 0.6073136878490496 
+            xmax = 0.8319528824033327 
+            text = "doesn't" 
+        intervals [6]:
+            xmin = 0.8319528824033327 
+            xmax = 1.0296079567986518 
+            text = "look" 
+        intervals [7]:
+            xmin = 1.0296079567986518 
+            xmax = 1.2417881102040575 
+            text = "like" 
+        intervals [8]:
+            xmin = 1.2417881102040575 
+            xmax = 1.3863796067608372 
+            text = "that" 
+        intervals [9]:
+            xmin = 1.3863796067608372 
+            xmax = 1.513331128590257 
+            text = "i've" 
+        intervals [10]:
+            xmin = 1.513331128590257 
+            xmax = 1.6066254693814834 
+            text = "got" 
+        intervals [11]:
+            xmin = 1.6066254693814834 
+            xmax = 1.690943544894312 
+            text = "a" 
+        intervals [12]:
+            xmin = 1.690943544894312 
+            xmax = 1.8989977615469205 
+            text = "full" 
+        intervals [13]:
+            xmin = 1.8989977615469205 
+            xmax = 2.2276764120022863 
+            text = "house" 
+        intervals [14]:
+            xmin = 2.2276764120022863 
+            xmax = 2.3768388754766314 
+            text = "here" 
+        intervals [15]:
+            xmin = 2.3768388754766314 
+            xmax = 2.631416848437133 
+            text = "Joe" 
+        intervals [16]:
+            xmin = 2.631416848437133 
+            xmax = 2.8745208333333334 
+            text = "[length]" 

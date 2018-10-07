@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.9009583333333335 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 3.9009583333333335 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28410428290163425 
+            text = "yeah" 
+        intervals [2]:
+            xmin = 0.28410428290163425 
+            xmax = 0.46477609992165714 
+            text = "well" 
+        intervals [3]:
+            xmin = 0.46477609992165714 
+            xmax = 0.5486594435380964 
+            text = "the" 
+        intervals [4]:
+            xmin = 0.5486594435380964 
+            xmax = 0.7841780621534833 
+            text = "other" 
+        intervals [5]:
+            xmin = 0.7841780621534833 
+            xmax = 1.0077468791583941 
+            text = "team" 
+        intervals [6]:
+            xmin = 1.0077468791583941 
+            xmax = 1.1745582382146043 
+            text = "was" 
+        intervals [7]:
+            xmin = 1.1745582382146043 
+            xmax = 1.4229819866171356 
+            text = "just" 
+        intervals [8]:
+            xmin = 1.4229819866171356 
+            xmax = 1.7488365137425341 
+            text = "so" 
+        intervals [9]:
+            xmin = 1.7488365137425341 
+            xmax = 2.0746910408679327 
+            text = "awesome" 
+        intervals [10]:
+            xmin = 2.0746910408679327 
+            xmax = 2.2327788807604527 
+            text = "on" 
+        intervals [11]:
+            xmin = 2.2327788807604527 
+            xmax = 2.681232140863724 
+            text = "offence" 
+        intervals [12]:
+            xmin = 2.681232140863724 
+            xmax = 2.8586776754369603 
+            text = "I" 
+        intervals [13]:
+            xmin = 2.8586776754369603 
+            xmax = 2.974823843521261 
+            text = "was" 
+        intervals [14]:
+            xmin = 2.974823843521261 
+            xmax = 3.303904653093445 
+            text = "really" 
+        intervals [15]:
+            xmin = 3.303904653093445 
+            xmax = 3.8426938217067277 
+            text = "scared" 
+        intervals [16]:
+            xmin = 3.8426938217067277 
+            xmax = 3.9009583333333335 
+            text = "[length]" 

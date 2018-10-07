@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.274020833333333 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 3.274020833333333 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28447699700905105 
+            text = "see" 
+        intervals [2]:
+            xmin = 0.28447699700905105 
+            xmax = 0.5128225774423486 
+            text = "while" 
+        intervals [3]:
+            xmin = 0.5128225774423486 
+            xmax = 0.6635654429591336 
+            text = "we're" 
+        intervals [4]:
+            xmin = 0.6635654429591336 
+            xmax = 0.8595186744245047 
+            text = "at" 
+        intervals [5]:
+            xmin = 0.8595186744245047 
+            xmax = 1.0209916919977828 
+            text = "it" 
+        intervals [6]:
+            xmin = 1.0209916919977828 
+            xmax = 1.1969970419031781 
+            text = "#" 
+        intervals [7]:
+            xmin = 1.1969970419031781 
+            xmax = 1.345924645669282 
+            text = "we'll" 
+        intervals [8]:
+            xmin = 1.345924645669282 
+            xmax = 1.5110988971189607 
+            text = "have" 
+        intervals [9]:
+            xmin = 1.5110988971189607 
+            xmax = 1.649195402429348 
+            text = "a" 
+        intervals [10]:
+            xmin = 1.649195402429348 
+            xmax = 2.1122248614112342 
+            text = "balloon" 
+        intervals [11]:
+            xmin = 2.1122248614112342 
+            xmax = 2.4452811389245213 
+            text = "instead" 
+        intervals [12]:
+            xmin = 2.4452811389245213 
+            xmax = 2.51297550427275 
+            text = "of" 
+        intervals [13]:
+            xmin = 2.51297550427275 
+            xmax = 2.6700264318806415 
+            text = "a" 
+        intervals [14]:
+            xmin = 2.6700264318806415 
+            xmax = 3.119517017792882 
+            text = "ball" 
+        intervals [15]:
+            xmin = 3.119517017792882 
+            xmax = 3.274020833333333 
+            text = "[length]" 

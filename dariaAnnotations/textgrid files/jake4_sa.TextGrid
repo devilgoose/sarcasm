@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.2523333333333335 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 2.2523333333333335 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28511729140121905 
+            text = "wow" 
+        intervals [2]:
+            xmin = 0.28511729140121905 
+            xmax = 0.5042708333333333 
+            text = "#" 
+        intervals [3]:
+            xmin = 0.5042708333333333 
+            xmax = 0.58185237922077 
+            text = "it" 
+        intervals [4]:
+            xmin = 0.58185237922077 
+            xmax = 0.7750308809799847 
+            text = "sounded" 
+        intervals [5]:
+            xmin = 0.7750308809799847 
+            xmax = 0.8607191894234191 
+            text = "a" 
+        intervals [6]:
+            xmin = 0.8607191894234191 
+            xmax = 0.9911144414025582 
+            text = "lot" 
+        intervals [7]:
+            xmin = 0.9911144414025582 
+            xmax = 1.1440833333333331 
+            text = "like" 
+        intervals [8]:
+            xmin = 1.1440833333333331 
+            xmax = 1.2146491590810826 
+            text = "you" 
+        intervals [9]:
+            xmin = 1.2146491590810826 
+            xmax = 1.2984746782105292 
+            text = "were" 
+        intervals [10]:
+            xmin = 1.2984746782105292 
+            xmax = 1.5033815027491764 
+            text = "reading" 
+        intervals [11]:
+            xmin = 1.5033815027491764 
+            xmax = 1.6076977043324878 
+            text = "from" 
+        intervals [12]:
+            xmin = 1.6076977043324878 
+            xmax = 2.1963391275526014 
+            text = "Wikipedia" 
+        intervals [13]:
+            xmin = 2.1963391275526014 
+            xmax = 2.2523333333333335 
+            text = "[length]" 

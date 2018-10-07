@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.5495625 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 5.5495625 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08268373223563572 
+            text = "oh" 
+        intervals [2]:
+            xmin = 0.08268373223563572 
+            xmax = 0.4246207292662096 
+            text = "yes" 
+        intervals [3]:
+            xmin = 0.4246207292662096 
+            xmax = 0.9042504767788938 
+            text = "Blige" 
+        intervals [4]:
+            xmin = 0.9042504767788938 
+            xmax = 1.1452826290681908 
+            text = "#" 
+        intervals [5]:
+            xmin = 1.1452826290681908 
+            xmax = 1.2665432032879753 
+            text = "about" 
+        intervals [6]:
+            xmin = 1.2665432032879753 
+            xmax = 1.411120591294191 
+            text = "a" 
+        intervals [7]:
+            xmin = 1.411120591294191 
+            xmax = 1.6827899131929887 
+            text = "half" 
+        intervals [8]:
+            xmin = 1.6827899131929887 
+            xmax = 1.9925986017777366 
+            text = "hour" 
+        intervals [9]:
+            xmin = 1.9925986017777366 
+            xmax = 2.3315612650623776 
+            text = "ago" 
+        intervals [10]:
+            xmin = 2.3315612650623776 
+            xmax = 2.7683405439884123 
+            text = "#" 
+        intervals [11]:
+            xmin = 2.7683405439884123 
+            xmax = 2.890364344102275 
+            text = "but" 
+        intervals [12]:
+            xmin = 2.890364344102275 
+            xmax = 3.1411939588966167 
+            text = "now" 
+        intervals [13]:
+            xmin = 3.1411939588966167 
+            xmax = 3.321341974110711 
+            text = "I've" 
+        intervals [14]:
+            xmin = 3.321341974110711 
+            xmax = 3.58384935153052 
+            text = "hidden" 
+        intervals [15]:
+            xmin = 3.58384935153052 
+            xmax = 3.848907896208582 
+            text = "her" 
+        intervals [16]:
+            xmin = 3.848907896208582 
+            xmax = 4.275329770296416 
+            text = "again" 
+        intervals [17]:
+            xmin = 4.275329770296416 
+            xmax = 4.556452469197391 
+            text = "so" 
+        intervals [18]:
+            xmin = 4.556452469197391 
+            xmax = 4.735510023360403 
+            text = "you" 
+        intervals [19]:
+            xmin = 4.735510023360403 
+            xmax = 4.939754269908866 
+            text = "can" 
+        intervals [20]:
+            xmin = 4.939754269908866 
+            xmax = 5.346006880026557 
+            text = "find" 
+        intervals [21]:
+            xmin = 5.346006880026557 
+            xmax = 5.5495625 
+            text = "[length]" 

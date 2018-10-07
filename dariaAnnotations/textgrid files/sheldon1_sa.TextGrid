@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7299375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 6.7299375 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3008934916728365 
+            text = "Leonard" 
+        intervals [2]:
+            xmin = 0.3008934916728365 
+            xmax = 0.4332102075691178 
+            text = "you" 
+        intervals [3]:
+            xmin = 0.4332102075691178 
+            xmax = 0.6292866619567651 
+            text = "may" 
+        intervals [4]:
+            xmin = 0.6292866619567651 
+            xmax = 0.7448333333333334 
+            text = "be" 
+        intervals [5]:
+            xmin = 0.7448333333333334 
+            xmax = 1.2192811712804332 
+            text = "right" 
+        intervals [6]:
+            xmin = 1.2192811712804332 
+            xmax = 1.6468382925224554 
+            text = "#" 
+        intervals [7]:
+            xmin = 1.6468382925224554 
+            xmax = 1.7809018600463706 
+            text = "it" 
+        intervals [8]:
+            xmin = 1.7809018600463706 
+            xmax = 2.2712525133764077 
+            text = "appears" 
+        intervals [9]:
+            xmin = 2.2712525133764077 
+            xmax = 2.4437980774238954 
+            text = "that" 
+        intervals [10]:
+            xmin = 2.4437980774238954 
+            xmax = 2.7387953320857297 
+            text = "Penny" 
+        intervals [11]:
+            xmin = 2.7387953320857297 
+            xmax = 3.2062092621427323 
+            text = "secretly" 
+        intervals [12]:
+            xmin = 3.2062092621427323 
+            xmax = 3.4390565110000586 
+            text = "wants" 
+        intervals [13]:
+            xmin = 3.4390565110000586 
+            xmax = 3.5514292788900272 
+            text = "you" 
+        intervals [14]:
+            xmin = 3.5514292788900272 
+            xmax = 3.6683149835673574 
+            text = "in" 
+        intervals [15]:
+            xmin = 3.6683149835673574 
+            xmax = 3.813030617929767 
+            text = "her" 
+        intervals [16]:
+            xmin = 3.813030617929767 
+            xmax = 4.135857802276679 
+            text = "life" 
+        intervals [17]:
+            xmin = 4.135857802276679 
+            xmax = 4.24343791614355 
+            text = "in" 
+        intervals [18]:
+            xmin = 4.24343791614355 
+            xmax = 4.347365267883277 
+            text = "" 
+        intervals [19]:
+            xmin = 4.347365267883277 
+            xmax = 4.8149080865926 
+            text = "very" 
+        intervals [20]:
+            xmin = 4.8149080865926 
+            xmax = 5.360374708420141 
+            text = "intimate" 
+        intervals [21]:
+            xmin = 5.360374708420141 
+            xmax = 5.583014145900771 
+            text = "and" 
+        intervals [22]:
+            xmin = 5.583014145900771 
+            xmax = 6.061688936484124 
+            text = "carnal" 
+        intervals [23]:
+            xmin = 6.061688936484124 
+            xmax = 6.66838140361884 
+            text = "fashion" 
+        intervals [24]:
+            xmin = 6.66838140361884 
+            xmax = 6.7299375 
+            text = "[length]" 

@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.9822291666666665 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.9822291666666665 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5450897548874739 
+            text = "really" 
+        intervals [2]:
+            xmin = 0.5450897548874739 
+            xmax = 0.6332003905242696 
+            text = "#" 
+        intervals [3]:
+            xmin = 0.6332003905242696 
+            xmax = 0.9445972826823325 
+            text = "need" 
+        intervals [4]:
+            xmin = 0.9445972826823325 
+            xmax = 1.092159457603096 
+            text = "to" 
+        intervals [5]:
+            xmin = 1.092159457603096 
+            xmax = 1.4220254260976666 
+            text = "be" 
+        intervals [6]:
+            xmin = 1.4220254260976666 
+            xmax = 1.9193310368796466 
+            text = "as" 
+        intervals [7]:
+            xmin = 1.9193310368796466 
+            xmax = 2.2266641983736024 
+            text = "harsh" 
+        intervals [8]:
+            xmin = 2.2266641983736024 
+            xmax = 2.3724221126086027 
+            text = "on" 
+        intervals [9]:
+            xmin = 2.3724221126086027 
+            xmax = 2.4587518593720694 
+            text = "the" 
+        intervals [10]:
+            xmin = 2.4587518593720694 
+            xmax = 2.8532508475915006 
+            text = "ears" 
+        intervals [11]:
+            xmin = 2.8532508475915006 
+            xmax = 3.0504945247465898 
+            text = "as" 
+        intervals [12]:
+            xmin = 3.0504945247465898 
+            xmax = 3.1120874934878153 
+            text = "it" 
+        intervals [13]:
+            xmin = 3.1120874934878153 
+            xmax = 3.562201546596498 
+            text = "actually" 
+        intervals [14]:
+            xmin = 3.562201546596498 
+            xmax = 3.942511782376717 
+            text = "is" 
+        intervals [15]:
+            xmin = 3.942511782376717 
+            xmax = 3.9822291666666665 
+            text = "[length]" 

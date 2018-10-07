@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.8312916666666665 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.8312916666666665 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1228327602026346 
+            text = "while" 
+        intervals [2]:
+            xmin = 0.1228327602026346 
+            xmax = 0.26542267269101233 
+            text = "they" 
+        intervals [3]:
+            xmin = 0.26542267269101233 
+            xmax = 0.37791027032073254 
+            text = "were" 
+        intervals [4]:
+            xmin = 0.37791027032073254 
+            xmax = 0.8843751460798626 
+            text = "touring" 
+        intervals [5]:
+            xmin = 0.8843751460798626 
+            xmax = 1.0673655337732808 
+            text = "in" 
+        intervals [6]:
+            xmin = 1.0673655337732808 
+            xmax = 1.7227643340667769 
+            text = "sweden" 
+        intervals [7]:
+            xmin = 1.7227643340667769 
+            xmax = 2.0055676605020594 
+            text = "#" 
+        intervals [8]:
+            xmin = 2.0055676605020594 
+            xmax = 2.1180534843757397 
+            text = "they" 
+        intervals [9]:
+            xmin = 2.1180534843757397 
+            xmax = 2.2111238186564717 
+            text = "were" 
+        intervals [10]:
+            xmin = 2.2111238186564717 
+            xmax = 2.5634067607828452 
+            text = "involved" 
+        intervals [11]:
+            xmin = 2.5634067607828452 
+            xmax = 2.644006414010383 
+            text = "in" 
+        intervals [12]:
+            xmin = 2.644006414010383 
+            xmax = 2.8014518408672466 
+            text = "a" 
+        intervals [13]:
+            xmin = 2.8014518408672466 
+            xmax = 3.0869153844410686 
+            text = "car" 
+        intervals [14]:
+            xmin = 3.0869153844410686 
+            xmax = 3.6634207544657778 
+            text = "accident" 
+        intervals [15]:
+            xmin = 3.6634207544657778 
+            xmax = 3.8312916666666665 
+            text = "[length]" 

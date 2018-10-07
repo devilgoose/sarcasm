@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.191208333333333 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 4.191208333333333 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.059133337267219185 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.059133337267219185 
+            xmax = 0.2116520036392629 
+            text = "you" 
+        intervals [3]:
+            xmin = 0.2116520036392629 
+            xmax = 0.426564669890779 
+            text = "walk" 
+        intervals [4]:
+            xmin = 0.426564669890779 
+            xmax = 0.7627990025746027 
+            text = "over" 
+        intervals [5]:
+            xmin = 0.7627990025746027 
+            xmax = 0.9245348491675248 
+            text = "to" 
+        intervals [6]:
+            xmin = 0.9245348491675248 
+            xmax = 1.0990333352584263 
+            text = "it" 
+        intervals [7]:
+            xmin = 1.0990333352584263 
+            xmax = 1.3035470015300303 
+            text = "and" 
+        intervals [8]:
+            xmin = 1.3035470015300303 
+            xmax = 1.798991862984895 
+            text = "#" 
+        intervals [9]:
+            xmin = 1.798991862984895 
+            xmax = 2.048808666757062 
+            text = "and" 
+        intervals [10]:
+            xmin = 2.048808666757062 
+            xmax = 2.1597313332094576 
+            text = "you" 
+        intervals [11]:
+            xmin = 2.1597313332094576 
+            xmax = 2.242923333048754 
+            text = "can" 
+        intervals [12]:
+            xmin = 2.242923333048754 
+            xmax = 2.437037999340446 
+            text = "look" 
+        intervals [13]:
+            xmin = 2.437037999340446 
+            xmax = 2.797536665310731 
+            text = "out" 
+        intervals [14]:
+            xmin = 2.797536665310731 
+            xmax = 3.332587329428424 
+            text = "#" 
+        intervals [15]:
+            xmin = 3.332587329428424 
+            xmax = 3.4248667127960863 
+            text = "is" 
+        intervals [16]:
+            xmin = 3.4248667127960863 
+            xmax = 3.5215403525145894 
+            text = "that" 
+        intervals [17]:
+            xmin = 3.5215403525145894 
+            xmax = 3.6086586637438725 
+            text = "what" 
+        intervals [18]:
+            xmin = 3.6086586637438725 
+            xmax = 3.778508996749103 
+            text = "it's" 
+        intervals [19]:
+            xmin = 3.778508996749103 
+            xmax = 4.159805662679212 
+            text = "for" 
+        intervals [20]:
+            xmin = 4.159805662679212 
+            xmax = 4.191208333333333 
+            text = "[length]" 

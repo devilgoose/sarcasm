@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.191208333333333 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 4.191208333333333 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16036933403557382 
+            text = "I" 
+        intervals [2]:
+            xmin = 0.16036933403557382 
+            xmax = 0.38741416693032077 
+            text = "don't" 
+        intervals [3]:
+            xmin = 0.38741416693032077 
+            xmax = 0.6300574997949358 
+            text = "know" 
+        intervals [4]:
+            xmin = 0.6300574997949358 
+            xmax = 1.0478302281949063 
+            text = "Rose" 
+        intervals [5]:
+            xmin = 1.0478302281949063 
+            xmax = 1.4666021055987188 
+            text = "#" 
+        intervals [6]:
+            xmin = 1.4666021055987188 
+            xmax = 1.9634469194716946 
+            text = "maybe" 
+        intervals [7]:
+            xmin = 1.9634469194716946 
+            xmax = 2.3799555006746442 
+            text = "Mary" 
+        intervals [8]:
+            xmin = 2.3799555006746442 
+            xmax = 2.830419658568475 
+            text = "Poppins" 
+        intervals [9]:
+            xmin = 2.830419658568475 
+            xmax = 3.0263704564089573 
+            text = "has" 
+        intervals [10]:
+            xmin = 3.0263704564089573 
+            xmax = 3.1167394612823647 
+            text = "an" 
+        intervals [11]:
+            xmin = 3.1167394612823647 
+            xmax = 3.6330727216928955 
+            text = "Italian" 
+        intervals [12]:
+            xmin = 3.6330727216928955 
+            xmax = 4.148546744559888 
+            text = "cousin" 
+        intervals [13]:
+            xmin = 4.148546744559888 
+            xmax = 4.191208333333333 
+            text = "[length]" 

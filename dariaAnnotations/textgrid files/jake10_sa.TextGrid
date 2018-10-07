@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.8475208333333333 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 0.8475208333333333 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02817527847624508 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.02817527847624508 
+            xmax = 0.1380714721791988 
+            text = "that" 
+        intervals [3]:
+            xmin = 0.1380714721791988 
+            xmax = 0.24109383773639942 
+            text = "was" 
+        intervals [4]:
+            xmin = 0.24109383773639942 
+            xmax = 0.3340944520101711 
+            text = "a" 
+        intervals [5]:
+            xmin = 0.3340944520101711 
+            xmax = 0.5224241436810626 
+            text = "tight" 
+        intervals [6]:
+            xmin = 0.5224241436810626 
+            xmax = 0.7778530692513374 
+            text = "rap" 
+        intervals [7]:
+            xmin = 0.7778530692513374 
+            xmax = 0.8475208333333333 
+            text = "[length]" 

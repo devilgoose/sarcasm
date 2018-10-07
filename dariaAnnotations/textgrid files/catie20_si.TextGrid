@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.0186041666666665 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.0186041666666665 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06557101284676788 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.06557101284676788 
+            xmax = 0.14233939018880504 
+            text = "the" 
+        intervals [3]:
+            xmin = 0.14233939018880504 
+            xmax = 0.454581625181649 
+            text = "version" 
+        intervals [4]:
+            xmin = 0.454581625181649 
+            xmax = 0.575663456111366 
+            text = "of" 
+        intervals [5]:
+            xmin = 0.575663456111366 
+            xmax = 0.7391945456469671 
+            text = "this" 
+        intervals [6]:
+            xmin = 0.7391945456469671 
+            xmax = 1.0807591592892392 
+            text = "album" 
+        intervals [7]:
+            xmin = 1.0807591592892392 
+            xmax = 1.1462931399470755 
+            text = "that" 
+        intervals [8]:
+            xmin = 1.1462931399470755 
+            xmax = 1.316057356508328 
+            text = "i" 
+        intervals [9]:
+            xmin = 1.316057356508328 
+            xmax = 1.515724716866754 
+            text = "got" 
+        intervals [10]:
+            xmin = 1.515724716866754 
+            xmax = 1.7173197240332414 
+            text = "was" 
+        intervals [11]:
+            xmin = 1.7173197240332414 
+            xmax = 1.8185983388532745 
+            text = "the" 
+        intervals [12]:
+            xmin = 1.8185983388532745 
+            xmax = 2.269977309402922 
+            text = "HMV" 
+        intervals [13]:
+            xmin = 2.269977309402922 
+            xmax = 2.943047023585057 
+            text = "exclusive" 
+        intervals [14]:
+            xmin = 2.943047023585057 
+            xmax = 3.0186041666666665 
+            text = "[length]" 

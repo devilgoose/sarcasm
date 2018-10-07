@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.1163541666666665 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.1163541666666665 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27479273172656016 
+            text = "just" 
+        intervals [2]:
+            xmin = 0.27479273172656016 
+            xmax = 0.4983033400102639 
+            text = "#" 
+        intervals [3]:
+            xmin = 0.4983033400102639 
+            xmax = 0.8168059568145416 
+            text = "helping" 
+        intervals [4]:
+            xmin = 0.8168059568145416 
+            xmax = 0.9629853248931968 
+            text = "out" 
+        intervals [5]:
+            xmin = 0.9629853248931968 
+            xmax = 1.0347287998911527 
+            text = "a" 
+        intervals [6]:
+            xmin = 1.0347287998911527 
+            xmax = 1.4407392500996132 
+            text = "friend" 
+        intervals [7]:
+            xmin = 1.4407392500996132 
+            xmax = 1.504998549981178 
+            text = "it" 
+        intervals [8]:
+            xmin = 1.504998549981178 
+            xmax = 1.6307232671407612 
+            text = "has" 
+        intervals [9]:
+            xmin = 1.6307232671407612 
+            xmax = 1.845852227613826 
+            text = "nothing" 
+        intervals [10]:
+            xmin = 1.845852227613826 
+            xmax = 1.9631952969627704 
+            text = "to" 
+        intervals [11]:
+            xmin = 1.9631952969627704 
+            xmax = 2.185798427698974 
+            text = "do" 
+        intervals [12]:
+            xmin = 2.185798427698974 
+            xmax = 2.338662566301773 
+            text = "with" 
+        intervals [13]:
+            xmin = 2.338662566301773 
+            xmax = 2.4755628138755417 
+            text = "me" 
+        intervals [14]:
+            xmin = 2.4755628138755417 
+            xmax = 2.7046611873663378 
+            text = "being" 
+        intervals [15]:
+            xmin = 2.7046611873663378 
+            xmax = 3.025957686774162 
+            text = "lonely" 
+        intervals [16]:
+            xmin = 3.025957686774162 
+            xmax = 3.1163541666666665 
+            text = "[length]" 

@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.5642708333333335 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.5642708333333335 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10679112863351287 
+            text = "and" 
+        intervals [2]:
+            xmin = 0.10679112863351287 
+            xmax = 0.3122262994090289 
+            text = "just" 
+        intervals [3]:
+            xmin = 0.3122262994090289 
+            xmax = 0.5380573723503462 
+            text = "how" 
+        intervals [4]:
+            xmin = 0.5380573723503462 
+            xmax = 0.6589574876426911 
+            text = "#" 
+        intervals [5]:
+            xmin = 0.6589574876426911 
+            xmax = 1.213148274179072 
+            text = "infinite" 
+        intervals [6]:
+            xmin = 1.213148274179072 
+            xmax = 1.3505199660973295 
+            text = "and" 
+        intervals [7]:
+            xmin = 1.3505199660973295 
+            xmax = 1.9083507013625784 
+            text = "linear" 
+        intervals [8]:
+            xmin = 1.9083507013625784 
+            xmax = 2.0215733949837924 
+            text = "a" 
+        intervals [9]:
+            xmin = 2.0215733949837924 
+            xmax = 2.181324552400218 
+            text = "lot" 
+        intervals [10]:
+            xmin = 2.181324552400218 
+            xmax = 2.269260217051534 
+            text = "of" 
+        intervals [11]:
+            xmin = 2.269260217051534 
+            xmax = 2.4856348859834805 
+            text = "these" 
+        intervals [12]:
+            xmin = 2.4856348859834805 
+            xmax = 3.112420129554873 
+            text = "compositions" 
+        intervals [13]:
+            xmin = 3.112420129554873 
+            xmax = 3.475814147566941 
+            text = "feel" 
+        intervals [14]:
+            xmin = 3.475814147566941 
+            xmax = 3.5642708333333335 
+            text = "[length]" 

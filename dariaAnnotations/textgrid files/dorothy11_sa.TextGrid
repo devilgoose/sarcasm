@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.0650416666666667 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "track1" 
+        xmin = 0 
+        xmax = 3.0650416666666667 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13703709569458317 
+            text = "the" 
+        intervals [2]:
+            xmin = 0.13703709569458317 
+            xmax = 0.3337366262636046 
+            text = "little" 
+        intervals [3]:
+            xmin = 0.3337366262636046 
+            xmax = 0.7499069096638827 
+            text = "man" 
+        intervals [4]:
+            xmin = 0.7499069096638827 
+            xmax = 0.8969333525032063 
+            text = "who" 
+        intervals [5]:
+            xmin = 0.8969333525032063 
+            xmax = 1.1447835081980204 
+            text = "lives" 
+        intervals [6]:
+            xmin = 1.1447835081980204 
+            xmax = 1.2728435421876652 
+            text = "in" 
+        intervals [7]:
+            xmin = 1.2728435421876652 
+            xmax = 1.4493725471466379 
+            text = "there" 
+        intervals [8]:
+            xmin = 1.4493725471466379 
+            xmax = 1.6116086220038224 
+            text = "who" 
+        intervals [9]:
+            xmin = 1.6116086220038224 
+            xmax = 1.9892620381351265 
+            text = "turns" 
+        intervals [10]:
+            xmin = 1.9892620381351265 
+            xmax = 2.1033342782690845 
+            text = "the" 
+        intervals [11]:
+            xmin = 2.1033342782690845 
+            xmax = 2.369502838581653 
+            text = "light" 
+        intervals [12]:
+            xmin = 2.369502838581653 
+            xmax = 2.5640771474751696 
+            text = "on" 
+        intervals [13]:
+            xmin = 2.5640771474751696 
+            xmax = 2.7060337129752066 
+            text = "and" 
+        intervals [14]:
+            xmin = 2.7060337129752066 
+            xmax = 2.953429161435436 
+            text = "off" 
+        intervals [15]:
+            xmin = 2.953429161435436 
+            xmax = 3.0650416666666667 
+            text = "[length]" 

@@ -1,0 +1,58 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.6935208333333334 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.6935208333333334 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09592210901837951 
+            text = "but" 
+        intervals [2]:
+            xmin = 0.09592210901837951 
+            xmax = 0.258542227376928 
+            text = "this" 
+        intervals [3]:
+            xmin = 0.258542227376928 
+            xmax = 0.3766088886509426 
+            text = "is" 
+        intervals [4]:
+            xmin = 0.3766088886509426 
+            xmax = 0.5503673712806245 
+            text = "her" 
+        intervals [5]:
+            xmin = 0.5503673712806245 
+            xmax = 0.6439296311581456 
+            text = "#" 
+        intervals [6]:
+            xmin = 0.6439296311581456 
+            xmax = 0.9701424742516857 
+            text = "first" 
+        intervals [7]:
+            xmin = 0.9701424742516857 
+            xmax = 1.6239644569672194 
+            text = "LP" 
+        intervals [8]:
+            xmin = 1.6239644569672194 
+            xmax = 1.9427289940664143 
+            text = "released" 
+        intervals [9]:
+            xmin = 1.9427289940664143 
+            xmax = 2.0719340194823572 
+            text = "in" 
+        intervals [10]:
+            xmin = 2.0719340194823572 
+            xmax = 2.6355352510381094 
+            text = "july" 
+        intervals [11]:
+            xmin = 2.6355352510381094 
+            xmax = 2.6935208333333334 
+            text = "[length]" 

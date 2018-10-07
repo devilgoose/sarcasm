@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.9125625 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.9125625 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17478550076244445 
+            text = "which" 
+        intervals [2]:
+            xmin = 0.17478550076244445 
+            xmax = 0.47248642925516104 
+            text = "most" 
+        intervals [3]:
+            xmin = 0.47248642925516104 
+            xmax = 0.830503485214235 
+            text = "fans" 
+        intervals [4]:
+            xmin = 0.830503485214235 
+            xmax = 1.0254309344732118 
+            text = "would" 
+        intervals [5]:
+            xmin = 1.0254309344732118 
+            xmax = 1.6002155701481209 
+            text = "probably" 
+        intervals [6]:
+            xmin = 1.6002155701481209 
+            xmax = 2.3364297620856656 
+            text = "categorize" 
+        intervals [7]:
+            xmin = 2.3364297620856656 
+            xmax = 2.4846254574522644 
+            text = "as" 
+        intervals [8]:
+            xmin = 2.4846254574522644 
+            xmax = 2.5857466967500624 
+            text = "one" 
+        intervals [9]:
+            xmin = 2.5857466967500624 
+            xmax = 2.673767701187037 
+            text = "of" 
+        intervals [10]:
+            xmin = 2.673767701187037 
+            xmax = 2.8121015565464247 
+            text = "the" 
+        intervals [11]:
+            xmin = 2.8121015565464247 
+            xmax = 3.080993307143444 
+            text = "best" 
+        intervals [12]:
+            xmin = 3.080993307143444 
+            xmax = 3.1562275091810053 
+            text = "of" 
+        intervals [13]:
+            xmin = 3.1562275091810053 
+            xmax = 3.290466817434803 
+            text = "the" 
+        intervals [14]:
+            xmin = 3.290466817434803 
+            xmax = 3.8000676826449995 
+            text = "decade" 
+        intervals [15]:
+            xmin = 3.8000676826449995 
+            xmax = 3.9125625 
+            text = "[length]" 

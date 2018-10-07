@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.08825 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.08825 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21725285915779927 
+            text = "oh" 
+        intervals [2]:
+            xmin = 0.21725285915779927 
+            xmax = 0.44201657117726734 
+            text = "hi" 
+        intervals [3]:
+            xmin = 0.44201657117726734 
+            xmax = 0.6540096177410838 
+            text = "I" 
+        intervals [4]:
+            xmin = 0.6540096177410838 
+            xmax = 0.8889898621250731 
+            text = "just" 
+        intervals [5]:
+            xmin = 0.8889898621250731 
+            xmax = 1.095874642506629 
+            text = "uh" 
+        intervals [6]:
+            xmin = 1.095874642506629 
+            xmax = 1.736962048380339 
+            text = "#" 
+        intervals [7]:
+            xmin = 1.736962048380339 
+            xmax = 1.8723311022102458 
+            text = "thought" 
+        intervals [8]:
+            xmin = 1.8723311022102458 
+            xmax = 2.051120418589368 
+            text = "I'd" 
+        intervals [9]:
+            xmin = 2.051120418589368 
+            xmax = 2.160948141507972 
+            text = "give" 
+        intervals [10]:
+            xmin = 2.160948141507972 
+            xmax = 2.250342799697533 
+            text = "the" 
+        intervals [11]:
+            xmin = 2.250342799697533 
+            xmax = 2.5625121453860182 
+            text = "hotline" 
+        intervals [12]:
+            xmin = 2.5625121453860182 
+            xmax = 2.651341695004993 
+            text = "a" 
+        intervals [13]:
+            xmin = 2.651341695004993 
+            xmax = 3.026612596121565 
+            text = "try" 
+        intervals [14]:
+            xmin = 3.026612596121565 
+            xmax = 3.08825 
+            text = "[length]" 

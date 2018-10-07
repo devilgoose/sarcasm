@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.786395833333333 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.786395833333333 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2486185240946249 
+            text = "uh" 
+        intervals [2]:
+            xmin = 0.2486185240946249 
+            xmax = 0.35199398781798735 
+            text = "that" 
+        intervals [3]:
+            xmin = 0.35199398781798735 
+            xmax = 0.44820418065384426 
+            text = "you" 
+        intervals [4]:
+            xmin = 0.44820418065384426 
+            xmax = 0.523857578920563 
+            text = "could" 
+        intervals [5]:
+            xmin = 0.523857578920563 
+            xmax = 0.8188155265191044 
+            text = "find" 
+        intervals [6]:
+            xmin = 0.8188155265191044 
+            xmax = 0.939023601611487 
+            text = "on" 
+        intervals [7]:
+            xmin = 0.939023601611487 
+            xmax = 1.0042331324858436 
+            text = "a" 
+        intervals [8]:
+            xmin = 1.0042331324858436 
+            xmax = 1.333324165583717 
+            text = "number" 
+        intervals [9]:
+            xmin = 1.333324165583717 
+            xmax = 1.4082235473659268 
+            text = "of" 
+        intervals [10]:
+            xmin = 1.4082235473659268 
+            xmax = 2.0153394774122844 
+            text = "soundcloud" 
+        intervals [11]:
+            xmin = 2.0153394774122844 
+            xmax = 2.7562553549339026 
+            text = "profiles" 
+        intervals [12]:
+            xmin = 2.7562553549339026 
+            xmax = 2.786395833333333 
+            text = "[length]" 
