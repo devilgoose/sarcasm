@@ -1,20 +1,15 @@
 USRA Summer 2018 - Multimodal Sarcasm Detection
 
-Datasets from report:
-
-- daria = dataset 1
-- set1 = dataset 2
-- set2 = dataset 3
+no metadata so technically doesn't run but the complete outputs are in the outputs file
+also all extracted contours are included
 
 File/folders included:
 
-dariaAnnotations - annotations for dataset 1 (daria)
-Data - folder with all the metadata, labels
-doesnt_work - code that does not work
+parsedAnnotations - annotations for dataset 1 (daria)
+doesnt_work - code that did not work
 intensityContours - folder with intensity contours for each utterance
 outputs - .arff files for all the experiments run
 pitchContours - folder with pitch contours for each utterance
-SemEval2018Task3_UCDCC - UCDCC outputs and SemEval gold labels
 sentenceFeatures - output; sentence-level features for each utterance
 
 compile.py - utility methods for compiling results into .csv and .arff files
